@@ -1,0 +1,18 @@
+# 密钥文件（绝不能上传！）
+.env
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+# 向量库（体积大，不上传）
+chroma_db/
+# IDE
+.idea/
+.vscode/
+# 数据库文件
+*.db
+*.sqlite
+# 日志
+*.log

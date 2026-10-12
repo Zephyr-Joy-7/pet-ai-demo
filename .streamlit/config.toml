@@ -1,0 +1,22 @@
+[theme]
+# 主色调：暖橙色
+primaryColor = "#FF8C42"
+
+# 背景：奶油色
+backgroundColor = "#FFF9F2"
+
+# 次要背景：淡橙
+secondaryBackgroundColor = "#FFF1E0"
+
+# 文字：深棕
+textColor = "#3D2914"
+
+# 字体
+font = "sans serif"
+
+[server]
+headless = true
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
